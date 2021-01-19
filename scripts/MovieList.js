@@ -14,5 +14,5 @@ export function MovieList() {
     }
     console.log(MovieListHTMLString);
 
-    movieContainer.innerHTML = `<h2>My Movies</h2>${MovieListHTMLString}`;
+    movieContainer.innerHTML = `<h2>My Movies</h2><div id = "container">${MovieListHTMLString}</div>`;
 }
