@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .movie-card__image {
-	height: 20vh;
+	height: 30vh;
 }
 
 #container {
@@ -29,3 +29,8 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 3em;
 	padding: 2em;
 }
+.movie-card__title {
+	margin: 0.5em;
+	
+}
+
